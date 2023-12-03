@@ -1,9 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Привет, меня зовут Олег!</h1>
-
----
 <p>
-Я начинающий веб разработчик из Екатеринбурга </br>
-Работаю в компании <span style="color:#ef3b24">Брусника</span></br>
 Работаю в компании <a style="color:#ef3b24" href='https://ekaterinburg.brusnika.ru'>Брусника</a></br>
 Проходил обучение в  <a style="color:#fdd32a" href='https://practicum.yandex.ru/'>Яндекс Практикум</a></br>
 Получаю магистерскую степень в <a style="color:#194395" href='https://rtf.urfu.ru/ru/'>ИРИТ-РТФ </a>
